@@ -1,0 +1,13 @@
+# Playwright Automation Project
+
+## Features:
+- Login Testing
+- Cart Functionality
+- Checkout Flow
+
+## Tools:
+- Playwright
+- JavaScript
+
+## How to Run:
+npx playwright test
