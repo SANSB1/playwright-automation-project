@@ -1,3 +1,3 @@
 # Playwright Automation Project
 
-This project contains automated test cases for login, cart, and checkout functionality using Playwright.
+End-to-end automation testing project using Playwright with JavaScript, covering login, cart, and checkout functionalities with reusable test structure.
